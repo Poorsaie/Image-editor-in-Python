@@ -1,6 +1,6 @@
 # Image-editor-in-Python
-Simple Image editor implemented with and without gui.
-Just a simple editor to test image proccessing skills.
+Simple Image editor implemented with and without gui. 
+Just a simple editor to test image processing skills.
 
 # Modes
 1. GUI : A simple GUI to choose and edit your image and see changes after save.
